@@ -1,0 +1,21 @@
+SAYSHIFT — BY CHILD GAMES
+
+1. Extract this ZIP.
+2. Upload the complete project CONTENTS to GitHub using GitHub Desktop or Git.
+   The bundled audio converter includes a 31 MB .wasm file, which is larger
+   than GitHub's normal browser file-upload limit.
+3. Import the repository in Vercel and Deploy.
+
+Framework: Other
+Build: npm run build
+Output: dist
+API keys/environment variables: NONE
+
+Do not remove the public/vendor folder.
+Full setup, controls, formats, and limitations are explained in README.md.
+
+Upload audio -> enter text -> Make it talk -> play -> choose format -> download.
+The default download format matches your uploaded file when supported.
+Select Plain TTS to play or download the TTS voice on its own.
+
+Local preview: install Node.js 20+, run npm start, open http://localhost:3000.
