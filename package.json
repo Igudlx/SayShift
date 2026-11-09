@@ -1,0 +1,15 @@
+{
+  "name": "sayshift-by-child-games",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Make your sounds speak. A private, browser-based vocoder studio.",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:codecs": "node tests/codecs.integration.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

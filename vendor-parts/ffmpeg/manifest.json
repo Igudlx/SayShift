@@ -1,0 +1,27 @@
+{
+  "filename": "ffmpeg-core.wasm",
+  "bytes": 32232419,
+  "sha256": "9f57947a5bd530d8f00c5b3f2cb2a3492faa7e5d823315342d6a8656d0a6b7b7",
+  "parts": [
+    {
+      "name": "ffmpeg-core.wasm.part000",
+      "bytes": 8388608,
+      "sha256": "a5059b9ecc08b0c9b6af9abb7a4b86f37869a79291998f21a6e8ea863a5656de"
+    },
+    {
+      "name": "ffmpeg-core.wasm.part001",
+      "bytes": 8388608,
+      "sha256": "8e2e4feaef8a92bfb98bfd810dbc19cea25d4997ea8b0f38f987216a06fd4bcd"
+    },
+    {
+      "name": "ffmpeg-core.wasm.part002",
+      "bytes": 8388608,
+      "sha256": "aa6d98c80a06ca7c59b8422c8e98a836a4ef3148b25343dedb04b8aef0334427"
+    },
+    {
+      "name": "ffmpeg-core.wasm.part003",
+      "bytes": 7066595,
+      "sha256": "0483c8e4b5714fef3c0dbc371432088cfe32675fcb0f3d8b451027d96ed82ec7"
+    }
+  ]
+}

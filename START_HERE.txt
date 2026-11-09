@@ -1,0 +1,23 @@
+SAYSHIFT — BY CHILD GAMES
+
+1. Extract this ZIP into a FRESH FOLDER. Do not merge with an older copy.
+2. Upload the complete project CONTENTS through GitHub's website:
+   Add file -> Upload files. Every source file is under 9 MB.
+   Include the vendor-parts folder. Vercel automatically joins its four
+   converter parts during the build. No manual joining or Git LFS required.
+3. Import the repository in Vercel and Deploy.
+
+Framework: Other
+Build: npm run build
+Output: dist
+API keys/environment variables: NONE
+
+Do not remove public/vendor or vendor-parts.
+Do not upload an old dist folder or old unsplit .wasm file.
+Full setup, controls, formats, and limitations are explained in README.md.
+
+Upload audio -> enter text -> Make it talk -> play -> choose format -> download.
+The default download format matches your uploaded file when supported.
+Select Plain TTS to play or download the TTS voice on its own.
+
+Local preview: install Node.js 20+, run npm start, open http://localhost:3000.
